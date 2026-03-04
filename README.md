@@ -4,7 +4,7 @@ Paws City is a professional MERN-stack application designed to streamline pet se
 Bash
 cd backend
 npm install
-# Add MONGO_URI to .env
+Add MONGO_URI to .env
 npm start
 -Frontend
 Bash
